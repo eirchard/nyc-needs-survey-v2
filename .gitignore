@@ -1,0 +1,13 @@
+.git/
+.env
+.env.*
+*.bak
+*.tmp
+*.safe
+*.local.txt
+.clasprc.json
+apps-script/.clasp.json
+node_modules/
+.DS_Store
+
+.survey-secret.local
